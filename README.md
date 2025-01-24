@@ -10,7 +10,7 @@
 | **Memory (RAM)**          | 4GB RAM                             |
 | **Processor**             | 6 cores                             |
 
-- You can buy VPS from [PQ Hosting](https://pq.hosting/?from=622403&lang=en) using cryptocurrency
+- You can buy VPS from [PQ Hosting](https://pq.hosting/) using cryptocurrency
 ## Installation
 - First install `Docker` in your system if it is not already there by using below command
 ```
